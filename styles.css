@@ -1,0 +1,20 @@
+body
+{
+    background-color: #F6EABE;
+}  
+h1, h2, h3
+{
+    color: #658888;
+}
+hr
+{
+    border-color:#436666;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 0.4pc;
+    width: 30%;
+}
+p, table, ul, ol
+{
+    color: #214444;
+}
